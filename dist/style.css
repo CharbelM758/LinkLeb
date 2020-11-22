@@ -16,7 +16,7 @@ body{
 html {
   overflow-x: initial;
   overflow-x: hidden;
-
+  scroll-behavior: smooth;
 }
 
 /* HEADER */
