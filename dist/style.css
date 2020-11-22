@@ -47,6 +47,7 @@ header {
   border: none;
   cursor: pointer;
   display: none;
+  color: #132da0;
 }
 
 .hamburger:focus {
